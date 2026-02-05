@@ -38,7 +38,7 @@
 
 ### BLOCO 7
 
-1. RELUZ [A]() | [&#9836;]()
+1. RELUZ [A]() | [&#9836;](#)
 1. PERIGO [A]() | [&#9836;]()
 1. MUITO ESTRANHO [G]() | [&#9836;]()
 1. A VIDA TEM DESSAS COISAS [Bm]() | [&#9836;]()
