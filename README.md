@@ -91,14 +91,14 @@
 
 ### BLOCO 18 - LAMBADAS
 
-1. SEM VC NÃO DAR - [D] | [&#9836;]
-1. QUEM É ELE - Em / [D] | [&#9836;]
-1. VALEU [Cm] | [&#9836;]
-1. LAMBAMOR [Am] | [&#9836;]
-1. DANCE BALANCE [Cm] | [&#9836;]
-1. PRETA [Bm] | [&#9836;]
-1. CHORANDO SE FOI [Dm] | [&#9836;]
-1. ME CHAMA QUE EU VOU - F#m / [G#m] | [&#9836;]
+1. SEM VC NÃO DA - [D] | [&#9836;](https://youtu.be/M73RQDE7NMM)
+1. QUEM É ELE - Em / [D] | [&#9836;](https://youtu.be/Pc0RMRaW1lc)
+1. VALEU [Cm] | [&#9836;](https://youtu.be/B8RmNc8QUew)
+1. LAMBAMOR [Am] | [&#9836;](https://youtu.be/pR65iKEB2zA)
+1. DANCE BALANCE [Cm] | [&#9836;](https://youtu.be/XIYIji0oS5s)
+1. PRETA [Bm] | [&#9836;](https://youtu.be/MZr0BmAw58o)
+1. CHORANDO SE FOI [Dm] | [&#9836;](https://youtu.be/w0opr1OZcA0)
+1. ME CHAMA QUE EU VOU - F#m / [G#m] | [&#9836;](https://youtu.be/-cJatozQXV4)
 
 ### BLOCO 19 - FORRÓ DAS ANTIGAS 1
 
@@ -161,45 +161,46 @@
 
 ### BLOCO 27 - AXÉ
 
-1. TEMPO DE ALEGRIA - [C#] | [&#9836;]
-1. ABALOU - [C#m] | [&#9836;]
-1. [ESTRAVASA] | [&#9836;]
-1. DESCOBRIDOR DOS 7 [MARES] | [&#9836;]
-1. A SEMANA [INTEIRA] | [&#9836;]
-1. PEQUENA EVA [D] | [&#9836;]
-1. DANÇANDO [Bm] | [&#9836;]
-1. LARGADINHO [Bm] | [&#9836;]
-1. MANIVELA [E] | [&#9836;]
+1. TEMPO DE ALEGRIA - [C#] | [&#9836;](https://youtu.be/_cIkkcoqakA)
+1. ABALOU - [C#m] | [&#9836;](https://youtu.be/SSeKEVGnWPY)
+1. [ESTRAVASA] | [&#9836;](https://youtu.be/TVtK1Rii9zQ)
+1. DESCOBRIDOR DOS 7 MARES-[Gm] | [&#9836;]
+1. A SEMANA INTEIRA - [A] | [&#9836;]
+1. PEQUENA EVA [D] | [&#9836;](https://youtu.be/_soaJhvm9TA)
+1. DANÇANDO [Bm] | [&#9836;](https://youtu.be/L0f4Lw_ORoA)
+1. LARGADINHO [Bm] | [&#9836;](https://youtu.be/kQnqwXY4VYQ)
+1. MANIVELA [E] | [&#9836;](https://youtu.be/wobdecfM7FA)
 
 ### BLOCO 28 - AXÉ 2
 
-1. SOU PRAIEIRO [Cm] | [&#9836;]
-1. PRA LA E PRA CA [G] | [&#9836;]
-1. PAIS TROPICAL [C] | [&#9836;]
-1. ARERÊ [E] | [&#9836;]
-1. MÃOZINHA [Em] | [&#9836;]
-1. CABELO RAPADINHO [Cm] | [&#9836;]
+1. SOU PRAIEIRO [Cm] | [&#9836;](https://youtu.be/u_qdaqosDB0)
+1. PRA LA E PRA CA [G] | [&#9836;](https://youtu.be/yBvhOPFYbTU)
+1. PAIS TROPICAL [C] | [&#9836;](https://youtu.be/rG0ZTcHcS5w)
+1. ARERÊ [E] | [&#9836;](https://youtu.be/lEJ9E6EsRiE)
+1. MÃOZINHA [Em] | [&#9836;](https://youtu.be/tDlTlgyvZXk)
+1. CABELO RAPADINHO [Cm] | [&#9836;](https://youtu.be/93rmbptzBrQ)
 
 ### BLOCO 30 - FREVO
 
-1. VOLTEI RECIFE [Am] | [&#9836;]
-1. ME SEGURA SE NÃO EU CAIO [E] | [&#9836;]
-1. BOM DEMAIS [E] | [&#9836;]
+1. VOLTEI RECIFE [Am] | [&#9836;](https://youtu.be/J2AjFbDBXLw)
+1. ME SEGURA SE NÃO EU CAIO [E] | [&#9836;](https://youtu.be/dA7oBsmIYmk)
+1. BOM DEMAIS [E] | [&#9836;](https://youtu.be/ppkCwf97VgA)
 
 ### BLOCO 31 - INFANTIL
 
-1. TINDOLELÊ [Eb] | [&#9836;]
-1. ILARIÊ [F#] | [&#9836;]
+1. TINDOLELÊ [Eb] | [&#9836;](https://youtu.be/OrMyaNuYLM0)
+1. ILARIÊ [F#] | [&#9836;](https://youtu.be/e3TVk1v4jng)
 1. TREM DE ALEGRIA Eb - [F] | [&#9836;]
-1. UNI DUNI TÊ [D] | [&#9836;]
+1. UNI DUNI TÊ [D] | [&#9836;](https://youtu.be/9V3z2y5-aAk)
+1. BALÃO MÁGICO [D] | [&#9836;](https://youtu.be/bkaECNHMvag)
 
 ### BLOCO 39 - AXÉ ANTIGO
 
-1. ARAKETU BOM DEMAIS - [A#] | [&#9836;]
-1. PREFIXO DE VERÃO - F#m / D / [B] | [&#9836;]
-1. O QUE É QUE ESSA NEGA QUER - [E] | [&#9836;]
-1. DOCE OBSESSÃO - Em / [E] | [&#9836;]
-1. FRICOTE - [Cm] | [&#9836;]
+1. ARAKETU BOM DEMAIS - [A#] | [&#9836;](https://youtu.be/ghHcIlcYwi8)
+1. PREFIXO DE VERÃO - F#m / D / [B] | [&#9836;](https://youtu.be/iGGqmC9JoMo)
+1. O QUE É QUE ESSA NEGA QUER - [E] | [&#9836;](https://youtu.be/m-JwbI-GOYs)
+1. DOCE OBSESSÃO - Em / [E] | [&#9836;](https://youtu.be/4VnklL7urrI)
+1. FRICOTE - [Cm] | [&#9836;](https://youtu.be/5Xz_dY-22kA)
 
 ### BLOCO 40 - BOLEROS SOLTOS
 
@@ -237,10 +238,9 @@
 
 ### BLOCO 45
 
-1. Voando Pro Pará - [Em] | [&#9836;]
-1. Pra te esquecer - [C#m] | [&#9836;]
-1. AIAIAI Mega- [D#m] | [&#9836;]
-1. Cavalo Manco - [Dm] | [&#9836;]
+1. Voando Pro Pará - [Em] | [&#9836;](https://youtu.be/CcsaJDnFNJE)
+1. Cavalo Manco - [Dm] | [&#9836;](https://youtu.be/PzByQ7e24Ow)
+1. Pra te esquecer - [C#m] | [&#9836;](https://youtu.be/1_jGgt4xPtE)
 
 Blocos criados recentemente
 
