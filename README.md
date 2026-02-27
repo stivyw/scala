@@ -17,7 +17,7 @@
 1. ESTUPIDO CUPIDO [F](https://www.cifraclub.com.br/celly-campello/estupido-cupido/) | [&#9836;](https://youtu.be/unwkZNfAfBc)
 1. SPLISH SPLASH [F](https://www.cifraclub.com.br/silvinha-araujo/splish-splash-splish-splash/) | [&#9836;](https://youtu.be/PBRHlYZZNmY)
 
-### BLOCO - CALIPSO
+### BLOCO 45 - CALIPSO
 
 1. Voando P Pará(TAKAKÁ) - [Em] | [&#9836;](https://youtu.be/CcsaJDnFNJE)
 1. Pra te esquecer - [C#m] | [&#9836;](https://youtu.be/1_jGgt4xPtE)
@@ -25,7 +25,7 @@
 1. Dudu - [C#m] | [&#9836;](https://youtu.be/Wd7Ez6EhclQ)
 1. Cavalo Manco - [Dm] | [&#9836;](https://youtu.be/PzByQ7e24Ow)
 
-### Bloco - POP ROCK
+### BLOCO 10 - POP ROCK
 
 1. PINTURA ÍNTIMA. - [F](https://www.cifraclub.com.br/kid-abelha/pintura-intima/) | [&#9836;](https://youtu.be/Ix6Wt2-O-Ds)
 1. MAMA MARIA [C] | [&#9836;](https://youtu.be/3zsgaT7QK-M)
