@@ -1,4 +1,6 @@
-### [Acessar Repertorio Antigo &#8599;](https://github.com/stivyw/scala/blob/main/REP-ANTIGO.md)
+[Repertorio Antigo &#8599;](https://github.com/stivyw/scala/blob/main/REP-ANTIGO.md)
+|
+[&#9836; Ouvir Playlist &#8599;](https://tv.stivyw.com/web/#/music?topParentId=4a5c7dd78f12a0180afbf37067b6211a&collectionType=music)
 
 ### BLOCO 01 - INTERNACIONAL
 
