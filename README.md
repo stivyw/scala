@@ -69,19 +69,19 @@
 
 ### BLOCO 45 - CALIPSO
 
-1. Voando P Pará(TAKAKÁ) - [Em] | [&#9836;](https://youtu.be/CcsaJDnFNJE)
-1. Pra te esquecer - [C#m] | [&#9836;](https://youtu.be/1_jGgt4xPtE)
-1. Loirinha - [C#m] | [&#9836;](https://youtu.be/yh8ZyuO_374)
-1. Dudu - [C#m] | [&#9836;](https://youtu.be/Wd7Ez6EhclQ)
-1. Cavalo Manco - [Dm] | [&#9836;](https://youtu.be/PzByQ7e24Ow)
+1. Voando P Pará(TAKAKÁ) [Em] | [&#9836;](https://youtu.be/CcsaJDnFNJE)
+1. Pra te esquecer [C#m] | [&#9836;](https://youtu.be/1_jGgt4xPtE)
+1. Loirinha [G] | [&#9836;](https://youtu.be/yh8ZyuO_374)
+1. Dudu [Bm] | [&#9836;](https://youtu.be/Wd7Ez6EhclQ)
+1. Cavalo Manco [Dm] | [&#9836;](https://youtu.be/PzByQ7e24Ow)
 
 ### BLOCO 10 - POP ROCK
 
-1. PINTURA ÍNTIMA. - [F](https://www.cifraclub.com.br/kid-abelha/pintura-intima/) | [&#9836;](https://youtu.be/Ix6Wt2-O-Ds)
+1. PINTURA ÍNTIMA [F](https://www.cifraclub.com.br/kid-abelha/pintura-intima/) | [&#9836;](https://youtu.be/Ix6Wt2-O-Ds)
 1. MAMA MARIA [C] | [&#9836;](https://youtu.be/3zsgaT7QK-M)
-1. Ana Júlia - [D#] | [&#9836;](https://youtu.be/ToQse6MZAbw)
+1. Ana Júlia [D#] | [&#9836;](https://youtu.be/ToQse6MZAbw)
 1. NO BALANÇO DAS HORAS [C] | [&#9836;](https://youtu.be/sswvzk7H1DU)
-1. DO SEU LADO - [D](https://www.cifraclub.com.br/jota-quest/do-seu-lado/) | [&#9836;](https://youtu.be/Io8-MpvGrF8)
+1. DO SEU LADO [D](https://www.cifraclub.com.br/jota-quest/do-seu-lado/) | [&#9836;](https://youtu.be/Io8-MpvGrF8)
 
 ### BLOCO 22 - XOTE
 
